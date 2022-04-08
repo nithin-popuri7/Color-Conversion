@@ -119,7 +119,7 @@ cv2.destroyAllWindows()
 ### iii) RGB and BGR to YCrCb
 ![github](rolls.png)
 ### iv) Split and merge RGB Image
-![github](bullet'.png)
+![github](bullet.png)
 
 ### v) Split and merge HSV Image
 ![github](bullet1.png)
